@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Akash-tech102/LeetCode/tree/master/0001-two-sum) |
+| [2058-concatenation-of-array](https://github.com/Akash-tech102/LeetCode/tree/master/2058-concatenation-of-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -19,4 +20,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Akash-tech102/LeetCode/tree/master/0069-sqrtx) |
+## Simulation
+|  |
+| ------- |
+| [2058-concatenation-of-array](https://github.com/Akash-tech102/LeetCode/tree/master/2058-concatenation-of-array) |
 <!---LeetCode Topics End-->

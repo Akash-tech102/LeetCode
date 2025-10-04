@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Akash-tech102/LeetCode/tree/master/0069-sqrtx) |
+| [0412-fizz-buzz](https://github.com/Akash-tech102/LeetCode/tree/master/0412-fizz-buzz) |
 ## Binary Search
 |  |
 | ------- |
@@ -23,5 +24,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/Akash-tech102/LeetCode/tree/master/0412-fizz-buzz) |
 | [2058-concatenation-of-array](https://github.com/Akash-tech102/LeetCode/tree/master/2058-concatenation-of-array) |
+## String
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/Akash-tech102/LeetCode/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->

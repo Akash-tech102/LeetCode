@@ -10,7 +10,7 @@ var subtractProductAndSum = function(n) {
     for (var i = 0; i < digits.length; i++) { 
         sum += digits[i];
         product *= digits[i];
-            }
+    }
     return product - sum;
   };
    

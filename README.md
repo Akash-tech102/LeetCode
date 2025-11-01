@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Akash-tech102/LeetCode/tree/master/0412-fizz-buzz) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Akash-tech102/LeetCode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2083-three-divisors](https://github.com/Akash-tech102/LeetCode/tree/master/2083-three-divisors) |
+| [2298-count-integers-with-even-digit-sum](https://github.com/Akash-tech102/LeetCode/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2507-number-of-common-factors](https://github.com/Akash-tech102/LeetCode/tree/master/2507-number-of-common-factors) |
 ## Binary Search
 |  |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0412-fizz-buzz](https://github.com/Akash-tech102/LeetCode/tree/master/0412-fizz-buzz) |
 | [2058-concatenation-of-array](https://github.com/Akash-tech102/LeetCode/tree/master/2058-concatenation-of-array) |
+| [2298-count-integers-with-even-digit-sum](https://github.com/Akash-tech102/LeetCode/tree/master/2298-count-integers-with-even-digit-sum) |
 | [3311-ant-on-the-boundary](https://github.com/Akash-tech102/LeetCode/tree/master/3311-ant-on-the-boundary) |
 ## String
 |  |

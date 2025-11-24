@@ -9,12 +9,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Akash-tech102/LeetCode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Akash-tech102/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0136-single-number](https://github.com/Akash-tech102/LeetCode/tree/master/0136-single-number) |
+| [0217-contains-duplicate](https://github.com/Akash-tech102/LeetCode/tree/master/0217-contains-duplicate) |
 | [2058-concatenation-of-array](https://github.com/Akash-tech102/LeetCode/tree/master/2058-concatenation-of-array) |
 | [3311-ant-on-the-boundary](https://github.com/Akash-tech102/LeetCode/tree/master/3311-ant-on-the-boundary) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Akash-tech102/LeetCode/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/Akash-tech102/LeetCode/tree/master/0217-contains-duplicate) |
 ## Math
 |  |
 | ------- |
@@ -82,4 +84,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0342-power-of-four](https://github.com/Akash-tech102/LeetCode/tree/master/0342-power-of-four) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/Akash-tech102/LeetCode/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->

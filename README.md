@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Akash-tech102/LeetCode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Akash-tech102/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0136-single-number](https://github.com/Akash-tech102/LeetCode/tree/master/0136-single-number) |
 | [2058-concatenation-of-array](https://github.com/Akash-tech102/LeetCode/tree/master/2058-concatenation-of-array) |
 | [3311-ant-on-the-boundary](https://github.com/Akash-tech102/LeetCode/tree/master/3311-ant-on-the-boundary) |
 ## Hash Table
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Akash-tech102/LeetCode/tree/master/0136-single-number) |
 | [0338-counting-bits](https://github.com/Akash-tech102/LeetCode/tree/master/0338-counting-bits) |
 ## Memoization
 |  |

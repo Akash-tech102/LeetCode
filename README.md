@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Akash-tech102/LeetCode/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Akash-tech102/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [2058-concatenation-of-array](https://github.com/Akash-tech102/LeetCode/tree/master/2058-concatenation-of-array) |
 | [3311-ant-on-the-boundary](https://github.com/Akash-tech102/LeetCode/tree/master/3311-ant-on-the-boundary) |
 ## Hash Table
@@ -53,4 +54,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3311-ant-on-the-boundary](https://github.com/Akash-tech102/LeetCode/tree/master/3311-ant-on-the-boundary) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Akash-tech102/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->

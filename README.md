@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Akash-tech102/LeetCode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Akash-tech102/LeetCode/tree/master/0070-climbing-stairs) |
 | [0412-fizz-buzz](https://github.com/Akash-tech102/LeetCode/tree/master/0412-fizz-buzz) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Akash-tech102/LeetCode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2083-three-divisors](https://github.com/Akash-tech102/LeetCode/tree/master/2083-three-divisors) |
@@ -61,9 +62,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Akash-tech102/LeetCode/tree/master/0070-climbing-stairs) |
 | [0338-counting-bits](https://github.com/Akash-tech102/LeetCode/tree/master/0338-counting-bits) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0338-counting-bits](https://github.com/Akash-tech102/LeetCode/tree/master/0338-counting-bits) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Akash-tech102/LeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->

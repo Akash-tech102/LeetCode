@@ -1,0 +1,15 @@
+/**
+ * @param {number[]} nums
+ * @return {number}
+ */
+var findMaxK = function(nums) {
+    let maxK = -1;
+
+    for (let num of nums) {
+        if (num > 0 && nums.includes(-num)) {
+            maxK = Math.max(maxK, num);
+        }
+    }
+
+    return maxK;
+};

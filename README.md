@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Akash-tech102/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0136-single-number](https://github.com/Akash-tech102/LeetCode/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/Akash-tech102/LeetCode/tree/master/0217-contains-duplicate) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Akash-tech102/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [2058-concatenation-of-array](https://github.com/Akash-tech102/LeetCode/tree/master/2058-concatenation-of-array) |
 | [3311-ant-on-the-boundary](https://github.com/Akash-tech102/LeetCode/tree/master/3311-ant-on-the-boundary) |
 ## Hash Table
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Akash-tech102/LeetCode/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/Akash-tech102/LeetCode/tree/master/0412-fizz-buzz) |
 | [0742-to-lower-case](https://github.com/Akash-tech102/LeetCode/tree/master/0742-to-lower-case) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Akash-tech102/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 ## Enumeration
 |  |
 | ------- |

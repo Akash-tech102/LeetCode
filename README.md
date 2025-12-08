@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Akash-tech102/LeetCode/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/Akash-tech102/LeetCode/tree/master/0217-contains-duplicate) |
 | [0414-third-maximum-number](https://github.com/Akash-tech102/LeetCode/tree/master/0414-third-maximum-number) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Akash-tech102/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Akash-tech102/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [2058-concatenation-of-array](https://github.com/Akash-tech102/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Akash-tech102/LeetCode/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Akash-tech102/LeetCode/tree/master/0258-add-digits) |
 | [0342-power-of-four](https://github.com/Akash-tech102/LeetCode/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/Akash-tech102/LeetCode/tree/master/0412-fizz-buzz) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Akash-tech102/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Akash-tech102/LeetCode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2083-three-divisors](https://github.com/Akash-tech102/LeetCode/tree/master/2083-three-divisors) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/Akash-tech102/LeetCode/tree/master/2298-count-integers-with-even-digit-sum) |

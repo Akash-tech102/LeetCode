@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2083-three-divisors](https://github.com/Akash-tech102/LeetCode/tree/master/2083-three-divisors) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/Akash-tech102/LeetCode/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2507-number-of-common-factors](https://github.com/Akash-tech102/LeetCode/tree/master/2507-number-of-common-factors) |
+| [2544-alternating-digit-sum](https://github.com/Akash-tech102/LeetCode/tree/master/2544-alternating-digit-sum) |
 ## Binary Search
 |  |
 | ------- |

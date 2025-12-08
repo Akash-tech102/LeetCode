@@ -91,16 +91,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/Akash-tech102/LeetCode/tree/master/0070-climbing-stairs) |
 | [0338-counting-bits](https://github.com/Akash-tech102/LeetCode/tree/master/0338-counting-bits) |
+| [0397-integer-replacement](https://github.com/Akash-tech102/LeetCode/tree/master/0397-integer-replacement) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Akash-tech102/LeetCode/tree/master/0136-single-number) |
 | [0338-counting-bits](https://github.com/Akash-tech102/LeetCode/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/Akash-tech102/LeetCode/tree/master/0342-power-of-four) |
+| [0397-integer-replacement](https://github.com/Akash-tech102/LeetCode/tree/master/0397-integer-replacement) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Akash-tech102/LeetCode/tree/master/0070-climbing-stairs) |
+| [0397-integer-replacement](https://github.com/Akash-tech102/LeetCode/tree/master/0397-integer-replacement) |
 ## Recursion
 |  |
 | ------- |
@@ -121,4 +124,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/Akash-tech102/LeetCode/tree/master/0179-largest-number) |
+| [0397-integer-replacement](https://github.com/Akash-tech102/LeetCode/tree/master/0397-integer-replacement) |
 <!---LeetCode Topics End-->

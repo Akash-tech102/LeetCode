@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Akash-tech102/LeetCode/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/Akash-tech102/LeetCode/tree/master/0217-contains-duplicate) |
 | [0414-third-maximum-number](https://github.com/Akash-tech102/LeetCode/tree/master/0414-third-maximum-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Akash-tech102/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Akash-tech102/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Akash-tech102/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [2058-concatenation-of-array](https://github.com/Akash-tech102/LeetCode/tree/master/2058-concatenation-of-array) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Akash-tech102/LeetCode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Akash-tech102/LeetCode/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/Akash-tech102/LeetCode/tree/master/0217-contains-duplicate) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Akash-tech102/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Akash-tech102/LeetCode/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 ## Math
 |  |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/Akash-tech102/LeetCode/tree/master/0217-contains-duplicate) |
 | [0414-third-maximum-number](https://github.com/Akash-tech102/LeetCode/tree/master/0414-third-maximum-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Akash-tech102/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Akash-tech102/LeetCode/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 ## Linked List
 |  |

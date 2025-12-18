@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Akash-tech102/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [2058-concatenation-of-array](https://github.com/Akash-tech102/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Akash-tech102/LeetCode/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
+| [3024-type-of-triangle](https://github.com/Akash-tech102/LeetCode/tree/master/3024-type-of-triangle) |
 | [3311-ant-on-the-boundary](https://github.com/Akash-tech102/LeetCode/tree/master/3311-ant-on-the-boundary) |
 ## Hash Table
 |  |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2298-count-integers-with-even-digit-sum](https://github.com/Akash-tech102/LeetCode/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2507-number-of-common-factors](https://github.com/Akash-tech102/LeetCode/tree/master/2507-number-of-common-factors) |
 | [2544-alternating-digit-sum](https://github.com/Akash-tech102/LeetCode/tree/master/2544-alternating-digit-sum) |
+| [3024-type-of-triangle](https://github.com/Akash-tech102/LeetCode/tree/master/3024-type-of-triangle) |
 ## Binary Search
 |  |
 | ------- |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Akash-tech102/LeetCode/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Akash-tech102/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Akash-tech102/LeetCode/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
+| [3024-type-of-triangle](https://github.com/Akash-tech102/LeetCode/tree/master/3024-type-of-triangle) |
 ## Linked List
 |  |
 | ------- |

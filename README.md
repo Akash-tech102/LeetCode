@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2298-count-integers-with-even-digit-sum](https://github.com/Akash-tech102/LeetCode/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2507-number-of-common-factors](https://github.com/Akash-tech102/LeetCode/tree/master/2507-number-of-common-factors) |
 | [2544-alternating-digit-sum](https://github.com/Akash-tech102/LeetCode/tree/master/2544-alternating-digit-sum) |
+| [2652-sum-multiples](https://github.com/Akash-tech102/LeetCode/tree/master/2652-sum-multiples) |
 | [3024-type-of-triangle](https://github.com/Akash-tech102/LeetCode/tree/master/3024-type-of-triangle) |
 ## Binary Search
 |  |

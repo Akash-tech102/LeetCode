@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2058-concatenation-of-array](https://github.com/Akash-tech102/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Akash-tech102/LeetCode/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [3024-type-of-triangle](https://github.com/Akash-tech102/LeetCode/tree/master/3024-type-of-triangle) |
+| [3074-apple-redistribution-into-boxes](https://github.com/Akash-tech102/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3311-ant-on-the-boundary](https://github.com/Akash-tech102/LeetCode/tree/master/3311-ant-on-the-boundary) |
 ## Hash Table
 |  |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Akash-tech102/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Akash-tech102/LeetCode/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [3024-type-of-triangle](https://github.com/Akash-tech102/LeetCode/tree/master/3024-type-of-triangle) |
+| [3074-apple-redistribution-into-boxes](https://github.com/Akash-tech102/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
 ## Linked List
 |  |
 | ------- |
@@ -133,4 +135,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0179-largest-number](https://github.com/Akash-tech102/LeetCode/tree/master/0179-largest-number) |
 | [0397-integer-replacement](https://github.com/Akash-tech102/LeetCode/tree/master/0397-integer-replacement) |
+| [3074-apple-redistribution-into-boxes](https://github.com/Akash-tech102/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
 <!---LeetCode Topics End-->

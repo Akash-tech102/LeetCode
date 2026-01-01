@@ -1,9 +1,4 @@
-/**
- * @param {number[]} digits
- * @return {number[]}
- */
-/**
- * @param {number[]} digits
+ /* @param {number[]} digits
  * @return {number[]}
  */
 var plusOne = function(digits) {

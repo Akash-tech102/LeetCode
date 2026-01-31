@@ -136,4 +136,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Akash-tech102/LeetCode/tree/master/0179-largest-number) |
 | [0397-integer-replacement](https://github.com/Akash-tech102/LeetCode/tree/master/0397-integer-replacement) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Akash-tech102/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Akash-tech102/LeetCode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->

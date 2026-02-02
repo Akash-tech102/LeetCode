@@ -141,4 +141,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0175-combine-two-tables](https://github.com/Akash-tech102/LeetCode/tree/master/0175-combine-two-tables) |
 | [0196-delete-duplicate-emails](https://github.com/Akash-tech102/LeetCode/tree/master/0196-delete-duplicate-emails) |
+| [1068-product-sales-analysis-i](https://github.com/Akash-tech102/LeetCode/tree/master/1068-product-sales-analysis-i) |
 <!---LeetCode Topics End-->

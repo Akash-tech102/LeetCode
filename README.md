@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0182-duplicate-emails](https://github.com/Akash-tech102/LeetCode/tree/master/0182-duplicate-emails) |
 | [0196-delete-duplicate-emails](https://github.com/Akash-tech102/LeetCode/tree/master/0196-delete-duplicate-emails) |
 | [0584-find-customer-referee](https://github.com/Akash-tech102/LeetCode/tree/master/0584-find-customer-referee) |
+| [0595-big-countries](https://github.com/Akash-tech102/LeetCode/tree/master/0595-big-countries) |
 | [1068-product-sales-analysis-i](https://github.com/Akash-tech102/LeetCode/tree/master/1068-product-sales-analysis-i) |
 | [1741-find-total-time-spent-by-each-employee](https://github.com/Akash-tech102/LeetCode/tree/master/1741-find-total-time-spent-by-each-employee) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Akash-tech102/LeetCode/tree/master/1757-recyclable-and-low-fat-products) |
